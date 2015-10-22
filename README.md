@@ -1,4 +1,6 @@
 # OpenGamemode
+
+[![Join the chat at https://gitter.im/Frosty-Gaming/OpenGamemode](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Frosty-Gaming/OpenGamemode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 OpenGamemode is a clone of the Sandbox gamemode included with Garry's Mod. Anybody can commit to this repo and it will be automatically cloned every 2 hours on the server hosted by Frosty Gaming (or, at least it will in the future)
 
 ## Rules
